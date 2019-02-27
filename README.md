@@ -1,4 +1,4 @@
-# testing
+List of colors
 
 Color added
 pink
